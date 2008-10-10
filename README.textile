@@ -4,7 +4,7 @@ A set of "Ubiquity":https://wiki.mozilla.org/Labs/Ubiquity/ commands for "Mingle
 
 I'm open to any feature requests and patches.
 
-<object width="400" height="300">	<param name="allowfullscreen" value="true" />	<param name="allowscriptaccess" value="always" />	<param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=1927159&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1" />	<embed src="http://vimeo.com/moogaloop.swf?clip_id=1927159&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="400" height="300"></embed></object><br /><a href="http://vimeo.com/1927159?pg=embed&amp;sec=1927159">Ubiquity for Mingle - First Cut</a> from <a href="http://vimeo.com/bitshaker?pg=embed&amp;sec=1927159">Joe Homs</a> on <a href="http://vimeo.com?pg=embed&amp;sec=1927159">Vimeo</a>.
+<a href="http://vimeo.com/1927159?pg=embed&amp;sec=1927159">Ubiquity for Mingle - First Cut</a> from <a href="http://vimeo.com/bitshaker?pg=embed&amp;sec=1927159">Joe Homs</a> on <a href="http://vimeo.com?pg=embed&amp;sec=1927159">Vimeo</a>.
 
 h3. Current Commands
 
